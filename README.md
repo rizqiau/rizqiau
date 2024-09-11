@@ -2,7 +2,7 @@
 
 I'm currently a 5th-semester student at Universitas Muhammadiyah Jakarta, where I'm pursuing my studies alongside working as a gas filling operator. I have a strong enthusiasm for programming and technology, which drives me to continuously learn and grow in this field. 
 
-I'm currently participating in the Bangkit Batch 7 program, which is my second experience in a program like this after previously attending a Full-Stack Developer bootcamp with HariSenin.
+I'm currently participating in the Bangkit 2024 Batch 2 program, which is my second experience in a program like this after previously attending a Full-Stack Developer bootcamp with HariSenin.
 
 - 🌱 I’m currently learning kotlin for mobile apps
 - 💬 I'd love to discuss about web development or any tech
