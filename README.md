@@ -5,8 +5,8 @@ You can call me Rizqi. I'm currently a 5th-semester student at Universitas Muham
 Feel free to connect with me on LinkedIn: (https://www.linkedin.com/in/rizqiau/).
 
 <p align="left">
-<a href="https://github.com/rizqiau">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizqiau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizqiau&layout=compact&theme=algolia"/>
-</a>
+  <a href="https://github.com/rizqiau">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizqiau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="display: inline-block;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizqiau&layout=compact&theme=algolia" style="display: inline-block;"/>
+  </a>
 </p>
